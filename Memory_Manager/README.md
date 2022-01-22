@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[PPT](https://github.com/oslab-csie-ncku/hw4-memory-manager-How-Wang/blob/main/Memory-Manager-Discription-Detail.pdf)
+[PPT](https://github.com/How-Wang/Operating_System_Project/blob/main/Memory_Manager/Memory_Manager.pdf)
 
 Inplemented memory manager by C language, and  
 - Translation Lookaside Buffer
