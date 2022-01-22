@@ -1,0 +1,4 @@
+Process A, Effect Access Time = 164.758
+Process A, Page Fault Rate = 0.723
+Process B, Effect Access Time = 163.709
+Process B, Page Fault Rate = 0.665

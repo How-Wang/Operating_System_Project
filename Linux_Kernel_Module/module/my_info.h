@@ -1,0 +1,17 @@
+#include <linux/module.h>
+#include <linux/proc_fs.h>
+#include <linux/seq_file.h>
+#include <linux/kernel.h>
+//for version
+#include <generated/utsrelease.h>
+//for cpu
+#include <linux/processor.h>
+//for memory
+#include <linux/sysinfo.h>
+#include <linux/vmstat.h>
+//for time
+#include <linux/fs.h>
+#include <linux/init.h>
+#include <linux/sched.h>
+#include <linux/time.h>
+#include <linux/kernel_stat.h>
